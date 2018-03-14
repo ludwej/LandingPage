@@ -1,0 +1,41 @@
+body {
+    background-color: lightgrey;
+
+
+}
+
+.button1 {
+  background-color: #4CAF50
+  border: 1px solid black ;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;}
+
+    .button1:hover {
+        background-color: darkgrey ;
+        color: white;
+}
+
+
+
+.button2 {
+  background-color: #4CAF50
+  border: 1px solid black ;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;}
+
+    .button2:hover {
+        background-color: darkgrey ;
+        color: white;
+}
